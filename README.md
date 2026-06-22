@@ -1,4 +1,4 @@
 Hi I'm HexFalc, 
-I'm a basic C programmer and a game modder (mostly for the fan game / remaster Sonic 3 A.I.R).
+I'm a C programmer and a game modder (mostly for the fan game / remaster Sonic 3 A.I.R).
 
 #### All my stuff is hosted on codeberg. This account is only used for stuff that is on github or that requires it.
